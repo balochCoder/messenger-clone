@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="098bbba0-f30b-4ca3-964e-b37f412c8bec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/sidebar/DesktopSidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/sidebar/DesktopSidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/sidebar/Sidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/users/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/users/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/conversations/[conversationId]/components/Body.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/conversations/[conversationId]/components/Body.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/conversations/[conversationId]/components/Form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/conversations/[conversationId]/components/Form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/conversations/[conversationId]/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/conversations/[conversationId]/components/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -47,6 +47,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\coding\messenger-clone\app\api\conversations\[conversationId]\seen" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +64,8 @@
       <workItem from="1684843418632" duration="6027000" />
       <workItem from="1684997735102" duration="7696000" />
       <workItem from="1685086287888" duration="8340000" />
-      <workItem from="1685175380555" duration="9910000" />
+      <workItem from="1685175380555" duration="10078000" />
+      <workItem from="1685354015007" duration="8829000" />
     </task>
     <servers />
   </component>
